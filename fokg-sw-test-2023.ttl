@@ -1,0 +1,2502 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://dice-research.org/data/fb15k-237.ttl#101> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s9rl0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gd0c7x> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1010> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01kvqc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0kvtr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1011> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0t_2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03q0r1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1017> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03nyts> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.027xq5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1020> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.012x4t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1029> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0k0sb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02z3r8t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#103> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02y_2y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1036> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.036c_0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06psyf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1038> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02p0s5r> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02h9_l> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1039> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04h6m> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ck9l7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#104> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.083jv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.049n7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1040> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0jrhl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.second_level_divisions> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06sw9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1042> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09rvcvl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film_subject.films> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07jdr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1047> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01jz6x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09nwwf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1051> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03bx_5q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02t_st> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1056> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0mb5x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01n6c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1057> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cgfb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01fh36> .
+
+<http://dice-research.org/data/fb15k-237.ttl#106> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0k_mf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0k_s5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1069> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01f9zw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.096ysw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#107> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012ky3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.music> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026zlh9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1071> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07l75> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01pbwwl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1075> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.024dgj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07gqbk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1077> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.048lv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h95927> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1082> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02pfymy> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06z8gn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1091> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04thp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.023p33> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1096> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.08984j> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04kkz8> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1099> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0407f> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03d96s> .
+
+<http://dice-research.org/data/fb15k-237.ttl#110> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.095bb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015w8_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1104> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.089fss> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vtj38> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1108> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0182r9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01s7ns> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1110> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0413cff> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026lgs> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1111> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.021wpb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02gf_l> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1113> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h4rq6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01mpwj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1115> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.026wmz6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02x2t07> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1119> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01fpdh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06__c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1121> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.015gy7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.cause_of_death.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01k9gb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1123> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.051pnv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03ndd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1128> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0459q4> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05r3qc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1130> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01xyqk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.second_level_divisions> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06srk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1133> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.044f7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.08nvyr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1135> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07_q87> ;
+    rdf:predicate <http://rdf.freebase.com/ns/user.alexander.philosophy.philosopher.interests> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.043s3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1136> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01v3vp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01pj5q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1138> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01d_h8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0261x8t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#114> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01p9hgt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.017371> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1140> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02fgpf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1149> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0b_c7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1150> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0_z91> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02j9z> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1154> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.08pn_9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02p4450> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1156> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.042g7t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0p7vt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1158> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01lp8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0cbn7c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#116> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01w60_p> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1162> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01934k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01ycbq> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1164> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04j5jl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01x0yrt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1165> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0c7ct> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1169> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06mfvc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06c0j> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1171> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01qkqwg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.021_z5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1179> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0f4y_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09pnw5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1184> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05798> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.028qyn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1185> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.031c2r> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01hxs4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1193> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gs6m> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07sgdw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1194> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02fs_d> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07sgdw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1197> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.067pl7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.film_production_design_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.021pqy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1200> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0kq2g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bd2n4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1201> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0163kf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.037n97> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1205> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03s2y9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015010> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1207> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0xtz9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05j12n> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1208> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03hzl42> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01w56k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1209> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0kyk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01trhmt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1211> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06t8v> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01dpsv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1217> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01c8w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09ld6g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1219> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03fw60> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.027_sn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1220> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.032zq6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02ckl3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1223> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01p45_v> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06dv3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1231> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01n86> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jx1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1235> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gtzp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.sport> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0449sw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#124> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05pcjw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03b8c4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1242> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.027y151> ;
+    rdf:predicate <http://rdf.freebase.com/ns/media_common.netflix_genre.titles> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03npn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1243> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09ksp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02mpb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1247> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06mxs> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02tktw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1248> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.032w8h> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05dss7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1250> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0f2yw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.059f4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1251> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01dvms> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.cause_of_death.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06z5s> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1252> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.075pwf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0df4y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1254> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01sgl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dnvn3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1257> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01pxg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016fnb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1260> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0306ds> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03z9585> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1261> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0f4k5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03z9585> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1263> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02mslq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.029h7y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1264> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.025t3bg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/medicine.disease.risk_factors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0c58k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1266> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01hpnh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01s3kv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1267> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fgsq2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01nr36> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1268> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02mv9b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.written_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05dptj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1273> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0jzc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07nt8p> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1275> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.026n3rs> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0kvgnq> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1276> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0m4mb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07wkd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1278> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02pz3j5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0fvxz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1280> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s9rl0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01kt_j> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1281> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03xks> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vsnff> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1282> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0xzm> ;
+    rdf:predicate <http://rdf.freebase.com/ns/business.business_operation.industry> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.045c7b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1284> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012wxt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dq9wx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1287> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012t_z> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03w9sgh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1290> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0q34g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02t_v1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1293> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.019mlh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/business.business_operation.industry> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.012fvq> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1294> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05t4q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0p3sf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1296> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dlqv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03h_yy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1297> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02g87m> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.064t9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#13> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g72r> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1300> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03cz83> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jq1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1302> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06kcjr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01f9y_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1304> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.026c1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05xf75> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1305> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01fpfn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02wmy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1309> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wg3q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.018vs> .
+
+<http://dice-research.org/data/fb15k-237.ttl#131> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0lpjn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1312> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02wzv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01k0xy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1315> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01jn5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09thp87> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1316> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0214st> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04f6df0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1324> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dcfv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0p7h7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1328> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03g3w> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.042zrm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1330> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0784v1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1341> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04pz5c> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.written_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0j_tw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1342> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0hhqw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02bgmr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1346> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02bjhv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0c75w> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1348> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0np9r> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01g23m> .
+
+<http://dice-research.org/data/fb15k-237.ttl#135> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01l87db> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1351> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.015np0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.027wvb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1355> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05vtw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.019g65> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1360> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fj9f> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03y9ccy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1362> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05qx1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.034qrh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1365> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01x209s> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015vgc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#137> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02r38> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ggq0m> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1375> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06t8b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1379> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012wxt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ff2k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#138> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07sbk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03mb9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1384> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0pkgt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0m40d> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1386> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03rs8y> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bn8fw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1387> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03bxz7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03ydlnj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1389> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01w923> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026t6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1391> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0db79> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01mwsnc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1392> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cn_tpv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0d060g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1396> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0205dx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.languages_spoken> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02sch9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1397> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0556j8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bth54> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1398> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cm19f> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01fx4k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1399> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0425gc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.034gxk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1400> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07z5n> ;
+    rdf:predicate <http://rdf.freebase.com/ns/olympics.olympic_games.participating_countries> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.018ctl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1402> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02sjp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1406> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0jtf1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.second_level_divisions> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1408> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0m75g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1411> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09zzb8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0167km> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1419> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.080g3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02ly_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#142> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.047cx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dl5d> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1420> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06mkj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026rm_y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1421> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dzf_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/base.americancomedy.celebrity_impressionist.celebrities_impersonated> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03m6t5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1430> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06s7rd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g2ff> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1431> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0170s4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1432> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.033gn8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.031x2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1436> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01q24l> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01w524f> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1438> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07rj5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gct_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#144> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02g3w> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.087wc7n> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1440> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06npd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01n7q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1446> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09g0h> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06by7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1447> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04ty8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03fw60> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1449> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03vhvp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.025n3p> .
+
+<http://dice-research.org/data/fb15k-237.ttl#145> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01vsyg9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07sbbz2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1455> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0167v> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09tqx3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1456> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07f3xb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06ncr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#146> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01vvybv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07sbbz2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1466> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09lwrt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01lyv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1472> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0hg5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bt23> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1473> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0ktds> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0hr3g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1474> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0556j8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03n3gl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1475> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.033hqf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1477> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0k8y7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016clz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1478> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012gk9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0fr61> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1479> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03l5m1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/language.human_language.countries_spoken_in> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0k0sv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1482> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0847q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.012bk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1483> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0h95zbp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.prequel> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0fsw_7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1487> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.028v3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0kv238> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1490> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.039v1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03mfqm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1496> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.014ktf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.018qpb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1497> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01s7j5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0s4sj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1498> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01r_t_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02x3lt7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#1499> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0xrzh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.costume_design_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03_wm6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#151> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07ssc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0cj2w> .
+
+<http://dice-research.org/data/fb15k-237.ttl#153> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04pwg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/base.culturalevent.event.entity_involved> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01gqg3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#154> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03gjzk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02773nt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#155> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03k50> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dfjb8> .
+
+<http://dice-research.org/data/fb15k-237.ttl#156> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03sb38> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.production_companies> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09sr0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#157> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s9rl0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0f8j13> .
+
+<http://dice-research.org/data/fb15k-237.ttl#158> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.082gq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09rsjpv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#160> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07ssc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0627sn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#165> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0234pg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0x67> .
+
+<http://dice-research.org/data/fb15k-237.ttl#167> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012z8_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/broadcast.content.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03gfvsz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#178> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.039cpd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0b90_r> .
+
+<http://dice-research.org/data/fb15k-237.ttl#179> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0345h> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03clwtw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#18> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01mwsnc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0xhtw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#187> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01wz01> .
+
+<http://dice-research.org/data/fb15k-237.ttl#191> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wj5hp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0181dw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#200> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0g8bw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.073q1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#205> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02lt8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05np2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#209> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016z4k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0127s7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#210> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.018jz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.sport> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01slc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#211> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01qklj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#216> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0ynfz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05fky> .
+
+<http://dice-research.org/data/fb15k-237.ttl#220> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02fqwt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0nh1v> .
+
+<http://dice-research.org/data/fb15k-237.ttl#222> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wgr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02fj8n> .
+
+<http://dice-research.org/data/fb15k-237.ttl#223> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03gjzk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0k269> .
+
+<http://dice-research.org/data/fb15k-237.ttl#23> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01c72t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0k4gf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#232> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01vsy95> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01p_2p> .
+
+<http://dice-research.org/data/fb15k-237.ttl#234> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0b68vs> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03_d0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#236> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.092bf5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.religion> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06449> .
+
+<http://dice-research.org/data/fb15k-237.ttl#248> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02jknp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03bw6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#25> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02l7c8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.063hp4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#254> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.027l0b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09kr66> .
+
+<http://dice-research.org/data/fb15k-237.ttl#265> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01nkxvx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#27> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0146pg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01wy6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#270> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.024qwq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05y8n7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#275> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02z2xdf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09rvcvl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#276> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07gknc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#279> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.039v1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0565cz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#283> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.064_8sq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02z3r8t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#284> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03j24kf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015_1q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#286> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.020ffd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#287> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02h9_l> .
+
+<http://dice-research.org/data/fb15k-237.ttl#29> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vw_dv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#293> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0c_j9x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film_subject.films> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07jdr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#294> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03hy3g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#295> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02kdv5l> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05qbbfb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#296> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01q20> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05b4w> .
+
+<http://dice-research.org/data/fb15k-237.ttl#298> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01q03> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02fwfb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#3> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04cb4x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0y_9q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#301> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06n90> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.024rwx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#304> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04kjrv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0190_q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#305> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.019r_1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#306> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05vyk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01pbxb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#307> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06nm1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0qmhk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#308> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02jx1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03s2dj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#310> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01d_h8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026670> .
+
+<http://dice-research.org/data/fb15k-237.ttl#311> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0n96z> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01pbwwl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#313> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02825nf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#316> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0bj8m2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.039zft> .
+
+<http://dice-research.org/data/fb15k-237.ttl#32> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01vsn38> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.041rx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#320> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06q8hf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h95927> .
+
+<http://dice-research.org/data/fb15k-237.ttl#322> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0csdzz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.music> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03qnc6q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#323> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0mws3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05tbn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#324> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09dfcj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05tbn> .
+
+<http://dice-research.org/data/fb15k-237.ttl#326> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02krf9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04j0s3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#329> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0c73g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0459z> .
+
+<http://dice-research.org/data/fb15k-237.ttl#33> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.041_y> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.041rx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#330> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01jrbb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#331> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07ssc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.018d6l> .
+
+<http://dice-research.org/data/fb15k-237.ttl#333> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0vgkd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09v42sf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#335> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0c8hct> .
+
+<http://dice-research.org/data/fb15k-237.ttl#346> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016m5c> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0jrv_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#347> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04306rv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0291ck> .
+
+<http://dice-research.org/data/fb15k-237.ttl#350> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02j9z> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0cm2xh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#354> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gl2ny2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09r1j5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#355> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01_srz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01mpwj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#361> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h1p> .
+
+<http://dice-research.org/data/fb15k-237.ttl#363> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.024c2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/medicine.symptom.symptom_of> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0cjf0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#365> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01445t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01jqr_5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#368> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05r3qc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#371> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05f5rsr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.film_festivals> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02z13jg> .
+
+<http://dice-research.org/data/fb15k-237.ttl#380> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03z0l6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#382> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04wsz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03gqgt3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#383> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02krf9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04vt98> .
+
+<http://dice-research.org/data/fb15k-237.ttl#385> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03gjzk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016ksk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#386> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03_gx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.religion> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.076689> .
+
+<http://dice-research.org/data/fb15k-237.ttl#387> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fj9f> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0b_c7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#388> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0c8wxp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.religion> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0432b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#394> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02prwdh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/media_common.netflix_genre.titles> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03mqtr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#396> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hcv8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0p7vt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#40> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02j4sk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#402> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0kqb0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07ssc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#404> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0g092b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03t97y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#408> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fpjyd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.music> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02q56mk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#412> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0167km> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05bt6j> .
+
+<http://dice-research.org/data/fb15k-237.ttl#416> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01bczm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#418> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.092bf5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.religion> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.012d40> .
+
+<http://dice-research.org/data/fb15k-237.ttl#420> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0164v> ;
+    rdf:predicate <http://rdf.freebase.com/ns/user.ktrueman.default_domain.international_organization.member_states> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.085h1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#422> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0lsxr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07sgdw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#430> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03176f> .
+
+<http://dice-research.org/data/fb15k-237.ttl#432> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03gjzk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bvg70> .
+
+<http://dice-research.org/data/fb15k-237.ttl#437> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0130sy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#440> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gt3p> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07bch9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#442> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0n6f8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07bch9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#446> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01914> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.deceased_person.place_of_death> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04xzm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#447> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05pcjw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02ckl3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#454> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06kbb6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.written_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.059lwy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#457> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01713c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#458> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01fpfn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02k1b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#46> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0c4xc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0sw0q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#460> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01rvgx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jx1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#461> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.013t85> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jx1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#462> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01gln9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jx1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#463> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01z28b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02jx1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#468> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03g5jw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02yv6b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#473> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016jfw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01clyr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#478> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01c72t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07s3vqk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#48> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0chgzm> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05nrg> .
+
+<http://dice-research.org/data/fb15k-237.ttl#481> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0219x_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.027qgy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#482> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0t_2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.languages_spoken> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02vsw1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#485> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04q5zw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05567m> .
+
+<http://dice-research.org/data/fb15k-237.ttl#489> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01nr36> .
+
+<http://dice-research.org/data/fb15k-237.ttl#492> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04xvh5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05dptj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#493> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gs6m> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01b_lz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#499> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0nbcg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01sbf2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#5> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01vrnsk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0342h> .
+
+<http://dice-research.org/data/fb15k-237.ttl#502> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.014_lq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03g5jw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#505> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05r6t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01_sz1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#507> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02lkcc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.cause_of_death.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gk4g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#51> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01c72t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02f1c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#510> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s9rl0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bwfwpj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#511> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01mf0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/business.business_operation.industry> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.045c7b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#512> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02fqwt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.time_zones> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0nppc> .
+
+<http://dice-research.org/data/fb15k-237.ttl#513> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09lbv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vsnff> .
+
+<http://dice-research.org/data/fb15k-237.ttl#514> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06w2sn5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02ny8t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#521> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0t0n5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03s0w> .
+
+<http://dice-research.org/data/fb15k-237.ttl#523> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01386_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.08jyyk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#528> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01531> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.place_of_birth> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02t_v1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#53> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.027jk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/olympics.olympic_games.participating_countries> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0kbws> .
+
+<http://dice-research.org/data/fb15k-237.ttl#530> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02bh9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.music> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ptdz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#531> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0219x_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h1x5f> .
+
+<http://dice-research.org/data/fb15k-237.ttl#532> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03rjj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0f4_2k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#533> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cj16> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.film_format> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.047vp1n> .
+
+<http://dice-research.org/data/fb15k-237.ttl#534> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0lsxr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0fjyzt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#538> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01z77k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02kk_c> .
+
+<http://dice-research.org/data/fb15k-237.ttl#540> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0m2gk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01x73> .
+
+<http://dice-research.org/data/fb15k-237.ttl#541> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s9rl0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03np63f> .
+
+<http://dice-research.org/data/fb15k-237.ttl#544> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0glt670> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01f9y_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#547> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05w88j> .
+
+<http://dice-research.org/data/fb15k-237.ttl#55> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01jfsb> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g9yrw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#550> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02_j8x> .
+
+<http://dice-research.org/data/fb15k-237.ttl#555> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05p553> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02704ff> .
+
+<http://dice-research.org/data/fb15k-237.ttl#558> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.018gz8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07rn0z> .
+
+<http://dice-research.org/data/fb15k-237.ttl#561> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.043kzcr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#562> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.070w7s> .
+
+<http://dice-research.org/data/fb15k-237.ttl#564> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0b44shh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#565> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.017fx5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.film_format> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0btpm6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#566> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.030dx5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#572> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0784v1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#577> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04306rv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03f1zhf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#581> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0wr_s> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.hud_county_place.place> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0wr_s> .
+
+<http://dice-research.org/data/fb15k-237.ttl#582> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fx02> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02vxq9m> .
+
+<http://dice-research.org/data/fb15k-237.ttl#585> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01nqfh_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02v2lh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#587> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.030qb3t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.062zjtt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#598> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0g28b1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0353tm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#599> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0qmk5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/media_common.netflix_genre.titles> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07c52> .
+
+<http://dice-research.org/data/fb15k-237.ttl#600> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02yy_j> .
+
+<http://dice-research.org/data/fb15k-237.ttl#605> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01ksr1> .
+
+<http://dice-research.org/data/fb15k-237.ttl#607> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05183k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.written_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09zf_q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#609> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bt4r4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#614> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06kb_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ff2k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#615> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02jknp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.023w9s> .
+
+<http://dice-research.org/data/fb15k-237.ttl#618> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03rk0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/language.human_language.countries_spoken_in> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01c7y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#619> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07ssc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03lvwp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#623> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0q_xk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03tn80> .
+
+<http://dice-research.org/data/fb15k-237.ttl#624> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wy61y> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01kcty> .
+
+<http://dice-research.org/data/fb15k-237.ttl#628> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0161c2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026t6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#630> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0778_3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0d060g> .
+
+<http://dice-research.org/data/fb15k-237.ttl#640> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.012gk9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.prequel> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015bpl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#642> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0k3jq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.second_level_divisions> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#643> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0t_07> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#644> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02htv6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#645> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0rqf1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#649> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fczy> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.second_level_divisions> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09c7w0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#650> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02g8h> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03g5_y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#652> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.042tq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.hud_county_place.place> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.042tq> .
+
+<http://dice-research.org/data/fb15k-237.ttl#654> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.010h9y> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02z6gky> .
+
+<http://dice-research.org/data/fb15k-237.ttl#659> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03rk0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05_zc7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#66> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0h6sv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.music> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gkz3nz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#662> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09yrh> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.038723> .
+
+<http://dice-research.org/data/fb15k-237.ttl#667> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03_3d> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016ztl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#67> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01c1px> .
+
+<http://dice-research.org/data/fb15k-237.ttl#673> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hrh1q> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.050_qx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#675> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06qw_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#676> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02qsjt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g768> .
+
+<http://dice-research.org/data/fb15k-237.ttl#677> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0pqp3> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.011k11> .
+
+<http://dice-research.org/data/fb15k-237.ttl#678> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06fvc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05g3b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#682> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g3zrd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#684> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02_286> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06cm5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#685> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01v9724> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.048cl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#688> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0r80l> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01n7q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#691> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01dwrc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0ggx5q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#692> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0fn5bx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#693> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0ctw_b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02bfxb> .
+
+<http://dice-research.org/data/fb15k-237.ttl#694> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dxtg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0mfj2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#705> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09889g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06by7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#706> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02_5x9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06by7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#713> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09jwl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01l03w2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#715> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03cxqp5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#716> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05qzv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.017n9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#717> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0n04r> .
+
+<http://dice-research.org/data/fb15k-237.ttl#719> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h0yt> .
+
+<http://dice-research.org/data/fb15k-237.ttl#724> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.015cxv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01lyv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#726> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07gxw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0kz10> .
+
+<http://dice-research.org/data/fb15k-237.ttl#728> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wz3cx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09qxq7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#731> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.033hqf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#733> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07n68> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016clz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#739> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0ctw_b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.geographic_distribution> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0d29z> .
+
+<http://dice-research.org/data/fb15k-237.ttl#74> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02z6l5f> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0660b9b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#741> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09c7w0> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0blbxk> .
+
+<http://dice-research.org/data/fb15k-237.ttl#743> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0219x_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03hkch7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#745> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h40lc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03pc89> .
+
+<http://dice-research.org/data/fb15k-237.ttl#747> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0lsxr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01dvbd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#750> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03bxz7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0y_9q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#754> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02ztjwg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02mc5v> .
+
+<http://dice-research.org/data/fb15k-237.ttl#758> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0jmwg> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.032xky> .
+
+<http://dice-research.org/data/fb15k-237.ttl#77> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02pqgt8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.costume_design_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05ldxl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#773> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01nz1q6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01wy6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#774> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01r93l> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0jf1v> .
+
+<http://dice-research.org/data/fb15k-237.ttl#777> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0fr59> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.09f5rr> .
+
+<http://dice-research.org/data/fb15k-237.ttl#779> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05c3mp2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.016z9n> .
+
+<http://dice-research.org/data/fb15k-237.ttl#780> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0d2rhq> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0yx7h> .
+
+<http://dice-research.org/data/fb15k-237.ttl#783> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01qm7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.school_type> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01bzs9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#785> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05frqx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0pgjm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#788> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01q415> .
+
+<http://dice-research.org/data/fb15k-237.ttl#789> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01rrgk> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vw20h> .
+
+<http://dice-research.org/data/fb15k-237.ttl#790> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0xv2x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.033g0y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#793> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04228s> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06t2t2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#798> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02p0s5r> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01wj18h> .
+
+<http://dice-research.org/data/fb15k-237.ttl#799> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01nhkxp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#803> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02822> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0g9yrw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#805> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09jwl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.034rd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#806> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.059m45> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03t28q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#808> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03nb5v> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0456xp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#809> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01cblr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05148p4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#812> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05jx2d> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h63q6t> .
+
+<http://dice-research.org/data/fb15k-237.ttl#819> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06cvj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04f1glf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#820> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cj8x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.executive_produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0660b9b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#821> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01q20> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.07fj_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#826> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01_f_5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.048z7l> .
+
+<http://dice-research.org/data/fb15k-237.ttl#829> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.022h5x> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.017ht> .
+
+<http://dice-research.org/data/fb15k-237.ttl#83> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wt4wc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02z7f3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#830> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.07s8qm7> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026sb55> .
+
+<http://dice-research.org/data/fb15k-237.ttl#831> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05c5z8j> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film_subject.films> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0d2rhq> .
+
+<http://dice-research.org/data/fb15k-237.ttl#837> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.015nhn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dryh9k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#84> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03n0q5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0557q> .
+
+<http://dice-research.org/data/fb15k-237.ttl#843> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.019sc> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.049n7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#845> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0mn8t> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0k_s5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#849> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02b5_l> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.015w8_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#850> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02h1rt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.costume_design_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gys2jp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#852> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0322yj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.deceased_person.place_of_death> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03txms> .
+
+<http://dice-research.org/data/fb15k-237.ttl#853> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0cdf37> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.film_production_design_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bdjd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#859> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05qd_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02znwv> .
+
+<http://dice-research.org/data/fb15k-237.ttl#86> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02qfv5d> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.048scx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#861> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wk3c> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.ethnicity.people> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02gx2x> .
+
+<http://dice-research.org/data/fb15k-237.ttl#868> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01jrvr6> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.067jsf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#87> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.013ksx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.featured_film_locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.047csmy> .
+
+<http://dice-research.org/data/fb15k-237.ttl#874> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02hv44_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01cqz5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#878> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04gf49c> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01l87db> .
+
+<http://dice-research.org/data/fb15k-237.ttl#88> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016z4k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0277c3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#882> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02pjxr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01c7qd> .
+
+<http://dice-research.org/data/fb15k-237.ttl#883> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.09hljw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01wphh2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#884> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01qvtwm> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.018j2> .
+
+<http://dice-research.org/data/fb15k-237.ttl#888> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01fpfn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.country.form_of_government> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04w58> .
+
+<http://dice-research.org/data/fb15k-237.ttl#890> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06hpx2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vxqyl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#895> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.069z_5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#899> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.014ktf> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.059xnf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#900> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06x8y> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02prwdh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#901> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01f1p9> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.parent_genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05tcx0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#902> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02lp1> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05tcx0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#908> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02rff2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04jpl> .
+
+<http://dice-research.org/data/fb15k-237.ttl#909> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04x4nv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0dscrwf> .
+
+<http://dice-research.org/data/fb15k-237.ttl#911> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.055qm> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.languages> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.06mr6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#913> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0bynt> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.sport> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01kkfp> .
+
+<http://dice-research.org/data/fb15k-237.ttl#917> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01bjv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0173b0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#926> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016m9h> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05m0h> .
+
+<http://dice-research.org/data/fb15k-237.ttl#93> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0420y> .
+
+<http://dice-research.org/data/fb15k-237.ttl#930> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01k3qj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0181dw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#935> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.075fzd> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.047myg9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#936> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gl2ny2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01vw8mh> .
+
+<http://dice-research.org/data/fb15k-237.ttl#937> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02zsn> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0l56b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#938> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.030b93> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.language> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gmd3k7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#94> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02jknp> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.078jt5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#940> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03jm6c> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.country> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02x8fs> .
+
+<http://dice-research.org/data/fb15k-237.ttl#943> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0dz8b> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0jvt9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#944> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02p21g> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026z9> .
+
+<http://dice-research.org/data/fb15k-237.ttl#945> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02gys2> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0mb0> .
+
+<http://dice-research.org/data/fb15k-237.ttl#946> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0blbx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/location.location.contains> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05fky> .
+
+<http://dice-research.org/data/fb15k-237.ttl#947> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06m_5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.nationality> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01njxvw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#95> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.083jv> ;
+    rdf:predicate <http://rdf.freebase.com/ns/sports.sports_team.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0jm4b> .
+
+<http://dice-research.org/data/fb15k-237.ttl#953> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0d117> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05v45k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#954> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.02p0szs> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03qcfvw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#957> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.016z4k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.012vct> .
+
+<http://dice-research.org/data/fb15k-237.ttl#96> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.043q6n_> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.produced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0bq6ntw> .
+
+<http://dice-research.org/data/fb15k-237.ttl#961> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01kmd4> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.record_label.artist> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.026_s_> .
+
+<http://dice-research.org/data/fb15k-237.ttl#963> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.039xcr> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02_fz3> .
+
+<http://dice-research.org/data/fb15k-237.ttl#964> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01ddth> ;
+    rdf:predicate <http://rdf.freebase.com/ns/time.event.locations> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05vsb7> .
+
+<http://dice-research.org/data/fb15k-237.ttl#969> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01wlt3k> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.instrument.instrumentalists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0l1589> .
+
+<http://dice-research.org/data/fb15k-237.ttl#971> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06rkl> ;
+    rdf:predicate <http://rdf.freebase.com/ns/influence.influence_node.influenced_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0gthm> .
+
+<http://dice-research.org/data/fb15k-237.ttl#975> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gnbw> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01hyfj> .
+
+<http://dice-research.org/data/fb15k-237.ttl#980> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0_z91> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.story_by> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.02c7k4> .
+
+<http://dice-research.org/data/fb15k-237.ttl#983> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.06qc5> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0h5jg5> .
+
+<http://dice-research.org/data/fb15k-237.ttl#984> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.04rwx> ;
+    rdf:predicate <http://rdf.freebase.com/ns/education.educational_institution.colors> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.0820xz> .
+
+<http://dice-research.org/data/fb15k-237.ttl#985> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.044k8> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04qftx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#986> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.01_wfj> ;
+    rdf:predicate <http://rdf.freebase.com/ns/music.genre.artists> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.04qftx> .
+
+<http://dice-research.org/data/fb15k-237.ttl#988> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.05zppz> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.gender> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.05nn4k> .
+
+<http://dice-research.org/data/fb15k-237.ttl#991> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.03xks> ;
+    rdf:predicate <http://rdf.freebase.com/ns/people.person.profession> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03bw6> .
+
+<http://dice-research.org/data/fb15k-237.ttl#993> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0295r> ;
+    rdf:predicate <http://rdf.freebase.com/ns/tv.tv_program.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.01fs__> .
+
+<http://dice-research.org/data/fb15k-237.ttl#996> a rdf:Statement ;
+    rdf:object <http://rdf.freebase.com/ns/m.0gf28> ;
+    rdf:predicate <http://rdf.freebase.com/ns/film.film.genre> ;
+    rdf:subject <http://rdf.freebase.com/ns/m.03wj4r8> .
+
