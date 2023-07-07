@@ -1,34 +1,18 @@
 # Fact-Checking-Engine-COPAAL
-[Project Overview](#project-overview) | [Installation](#installation) | [Execution](#execution) | [Data Description](#data-description) |  [Model Architecture](#model-architecture) | [Explainability Techniques](#explainability-techniques) | [Contribution](#contribution)
+[Project Overview](#project-overview)  | [Techniques](#techniques) | [Contribution](#contribution)
 
 ## Project Overview
 Fact checker - A Fact Checking Engine  based on Wikipedia corpus , developed using COPAAL approach.
 
-## Installation
-## Data Description
-## Model Architecture
+This project aims to validate the veracity of a given triple (s, p, o) using a knowledge graph G and a maximum path length k. It begins by initializing the necessary variables and performing path discovery. Paths are discovered by generating query templates and executing queries to obtain relevant information. Path scoring is then performed by calculating co-occurrence counts and NPMI (Normalized Pointwise Mutual Information) scores. Finally, the veracity of the triple is calculated based on the scores obtained. The algorithm returns a veracity score [0,1] for the input triple.
+
 ## Used Techniques
-## Team Members:
+COPAAL (Corroborative Fact Validation) 
+An algorithm that aims to validate facts by utilizing information from a knowledge graph and analyzing the co-occurrence and distribution of related entities.
+
+## Contribution:
 
 | Name                  | Matriculation Number |
 | --------------------- | -------------------- |
 | Amal Nimmy Lal   |   6987112            |
 | Aryman Deshwal   |  4011205           |
-
-
-
-
-    *False Positive Examples
-        *Microsoft's appllication was Albuquerque, New Mexico.
-        *Larry Page is Google’s CEO
-        *Virat Kohli is Hockey player
-        *Mukesh Ambani is son of Nita Ambani
-        *Shah Rukh Khan was born in Pakistan
-        
-    *False Negative Examples
-        *Bhagat Singh was a freedom Fighter
-        *Sachin Tendulkar’s birth place is Mumbai India
-        *Mahatma Gandhi’s death place is India
-        *Narendra Modi was a TeaMaker
-        *Rahul Gandhi is Cambridge graduate
-     
