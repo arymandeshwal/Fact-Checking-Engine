@@ -1,5 +1,5 @@
 # Fact-Checking-Engine-COPAAL
-[Project Overview](#project-overview)  | [Installation](#installation) | [How_to_run](#how to run)  | [Techniques](#techniques) | [Contribution](#contribution)
+[Project Overview](#project-overview)  | [Installation](#installation)   | [Techniques](#techniques) | [Contribution](#contribution)
 
 ## Project Overview
 Fact checker - A Fact Checking Engine  based on Wikipedia corpus , developed using COPAAL approach.
@@ -10,6 +10,7 @@ This project aims to validate the veracity of a given triple (s, p, o) using a k
 
 - pip install -r requirements.txt
 - You will need Jupyter Notebook
+- Only Run the file COPAAL 
 
 ## Techniques
 COPAAL (Corroborative Fact Validation) 
