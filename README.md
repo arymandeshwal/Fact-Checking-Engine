@@ -10,7 +10,7 @@ This project aims to validate the veracity of a given triple (s, p, o) using a k
 
 - pip install -r requirements.txt
 - You will need Jupyter Notebook
-- Only Run the file COPAAL 
+- Just Run the file COPAAL.ipynb
 
 ## Techniques
 COPAAL (Corroborative Fact Validation) 
