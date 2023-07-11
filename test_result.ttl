@@ -1,0 +1,1003 @@
+@prefix ns1: <http://swc2017.aksw.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dice-research.org/data/fb15k-237.ttl#101> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1010> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1011> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1017> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1020> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1029> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#103> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1036> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1038> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1039> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#104> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1040> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1042> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1047> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1051> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1056> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1057> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#106> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1069> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#107> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1071> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1075> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1077> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1082> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1091> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1096> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1099> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#110> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1104> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1108> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1110> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1111> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1113> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1115> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1119> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1121> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1123> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1128> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1130> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1133> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1135> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1136> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1138> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#114> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1140> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1149> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1150> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1154> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1156> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1158> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#116> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1162> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1164> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1165> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1169> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1171> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1179> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1184> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1185> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1193> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1194> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1197> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1200> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1201> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1205> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1207> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1208> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1209> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1211> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1217> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1219> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1220> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1223> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1231> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1235> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#124> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1242> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1243> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1247> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1248> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1250> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1251> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1252> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1254> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1257> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1260> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1261> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1263> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1264> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1266> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1267> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1268> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1273> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1275> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1276> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1278> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1280> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1281> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1282> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1284> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1287> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1290> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1293> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1294> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1296> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1297> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#13> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1300> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1302> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1304> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1305> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1309> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#131> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1312> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1315> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1316> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1324> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1328> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1330> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1341> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1342> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1346> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1348> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#135> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1351> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1355> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1360> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1362> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1365> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#137> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1375> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1379> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#138> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1384> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1386> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1387> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1389> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1391> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1392> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1396> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1397> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1398> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1399> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1400> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1402> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1406> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1408> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1411> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1419> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#142> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1420> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1421> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1430> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1431> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1432> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1436> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1438> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#144> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1440> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1446> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1447> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1449> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#145> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1455> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1456> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#146> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1466> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1472> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1473> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1474> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1475> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1477> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1478> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1479> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1482> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1483> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1487> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1490> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1496> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1497> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1498> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#1499> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#151> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#153> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#154> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#155> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#156> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#157> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#158> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#160> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#165> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#167> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#178> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#179> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#18> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#187> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#191> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#200> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#205> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#209> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#210> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#211> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#216> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#220> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#222> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#223> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#23> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#232> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#234> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#236> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#248> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#25> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#254> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#265> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#27> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#270> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#275> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#276> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#279> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#283> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#284> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#286> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#287> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#29> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#293> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#294> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#295> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#296> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#298> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#3> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#301> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#304> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#305> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#306> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#307> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#308> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#310> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#311> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#313> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#316> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#32> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#320> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#322> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#323> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#324> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#326> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#329> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#33> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#330> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#331> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#333> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#335> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#346> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#347> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#350> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#354> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#355> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#361> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#363> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#365> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#368> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#371> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#380> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#382> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#383> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#385> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#386> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#387> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#388> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#394> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#396> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#40> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#402> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#404> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#408> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#412> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#416> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#418> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#420> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#422> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#430> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#432> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#437> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#440> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#442> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#446> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#447> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#454> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#457> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#458> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#46> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#460> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#461> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#462> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#463> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#468> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#473> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#478> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#48> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#481> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#482> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#485> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#489> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#492> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#493> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#499> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#5> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#502> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#505> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#507> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#51> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#510> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#511> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#512> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#513> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#514> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#521> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#523> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#528> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#53> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#530> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#531> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#532> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#533> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#534> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#538> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#540> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#541> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#544> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#547> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#55> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#550> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#555> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#558> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#561> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#562> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#564> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#565> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#566> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#572> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#577> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#581> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#582> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#585> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#587> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#598> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#599> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#600> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#605> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#607> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#609> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#614> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#615> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#618> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#619> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#623> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#624> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#628> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#630> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#640> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#642> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#643> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#644> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#645> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#649> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#650> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#652> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#654> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#659> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#66> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#662> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#667> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#67> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#673> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#675> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#676> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#677> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#678> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#682> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#684> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#685> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#688> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#691> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#692> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#693> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#694> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#705> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#706> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#713> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#715> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#716> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#717> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#719> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#724> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#726> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#728> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#731> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#733> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#739> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#74> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#741> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#743> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#745> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#747> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#750> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#754> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#758> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#77> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#773> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#774> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#777> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#779> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#780> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#783> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#785> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#788> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#789> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#790> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#793> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#798> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#799> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#803> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#805> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#806> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#808> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#809> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#812> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#819> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#820> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#821> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#826> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#829> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#83> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#830> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#831> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#837> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#84> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#843> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#845> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#849> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#850> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#852> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#853> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#859> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#86> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#861> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#868> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#87> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#874> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#878> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#88> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#882> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#883> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#884> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#888> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#890> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#895> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#899> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#900> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#901> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#902> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#908> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#909> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#911> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#913> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#917> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#926> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#93> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#930> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#935> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#936> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#937> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#938> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#94> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#940> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#943> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#944> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#945> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#946> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#947> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#95> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#953> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#954> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#957> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#96> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#961> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#963> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#964> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#969> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#971> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#975> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#980> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#983> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#984> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#985> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#986> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#988> ns1:hasTruthValue 1e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#991> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#993> ns1:hasTruthValue 0e+00 .
+
+<http://dice-research.org/data/fb15k-237.ttl#996> ns1:hasTruthValue 1e+00 .
+
